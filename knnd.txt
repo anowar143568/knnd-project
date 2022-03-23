@@ -1,2 +1,6 @@
 i am working @ knnd associates pvt.ltd
 i love to work there 
+num1=10
+num2=20
+num3=$num1+$num2
+echo $num
